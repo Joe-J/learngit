@@ -1,2 +1,2 @@
-git learning
-git is free software
+git learning now!
+git is free software distributed under the GPL.
